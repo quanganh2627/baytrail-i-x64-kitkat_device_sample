@@ -17298,10 +17298,11 @@
   <apn carrier="MMS CLARO"
       mcc="330"
       mnc="110"
-      apn="mms.claropr.com"
+      apn="mmslte.claropr.com"
       mmsproxy="10.50.38.3"
       mmsport="8799"
       mmsc="http://mmsg.claropr.com:10021/mmsc"
+      authtype='1'
       type="mms"
   />
 
@@ -26897,7 +26898,7 @@
       apn="plus.acs.jp"
       user="ym"
       password="ym"
-      mmsproxy="andmms.plus.acs.ne.jp"
+      mmsproxy="andmms.plusacs.ne.jp"
       mmsport="8080"
       mmsc="http://mms-s"
       type="default,mms,supl,hipri"
